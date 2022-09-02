@@ -1,0 +1,21 @@
+#CONCESSIONARIO
+
+#auto_usate
+id - 
+immmagine_auto -
+marca_auto -
+modello_auto -
+colore -
+condizione_auto - 
+km_percorsi -
+anno_di_immatricolazione -
+numero_di_proprietari -
+posti_a_sedere - 
+porte_auto - 
+cilindrata_motore -
+cavalli_motore -
+alimentazione_carburante -
+classe_di_emissione -
+tipo_di_cambio -
+prezzo_nuova -
+prezzo_usata -
