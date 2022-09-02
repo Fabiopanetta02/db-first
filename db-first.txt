@@ -1,21 +1,21 @@
 #CONCESSIONARIO
 
 #auto_usate
-id - 
-immmagine_auto -
-marca_auto -
-modello_auto -
-colore -
-condizione_auto - 
-km_percorsi -
-anno_di_immatricolazione -
-numero_di_proprietari -
-posti_a_sedere - 
-porte_auto - 
-cilindrata_motore -
-cavalli_motore -
-alimentazione_carburante -
-classe_di_emissione -
-tipo_di_cambio -
-prezzo_nuova -
-prezzo_usata -
+id | BIGINT |
+immmagine_auto | VARCHAR(300) | 
+marca_auto | VARCHAR(250) |
+modello_auto | VARCHAR(250) |
+colore | VARCHAR(50) |
+condizione_auto | VARCHAR(20) |
+km_percorsi | MEDIUMINT |
+anno_di_immatricolazione | YEAR |
+numero_di_proprietari | TINYINT |
+posti_a_sedere | TINYINT |
+porte_auto | TINYINT |
+cilindrata_motore | SMALLINT |
+cavalli_motore | SMALLINT |
+alimentazione_carburante | VARCHAR(50) |
+classe_di_emissione | VARCHAR(20) |
+tipo_di_cambio | VARCHAR(20) |
+prezzo_nuova | FLOAT(7,2) |
+prezzo_usata | FLOAT(7,2) |
